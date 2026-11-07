@@ -7,18 +7,19 @@ past goblin walls and dire wolves on the road.
 Every version is listed here with its downloads. The links work without a
 GitHub account. New versions are added when they are released.
 
-## Newest: v0.15.0
+## Newest: v0.16.0
 
 | Android | Windows PC | Web (Netlify) |
 | --- | --- | --- |
-| [Android APK](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.15.0/CaravanSurvival-v0.15.0-android.apk) | [Windows](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.15.0/CaravanSurvival-v0.15.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.15.0/CaravanSurvival-v0.15.0-netlify.zip) |
+| [Android APK](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.16.0/CaravanSurvival-v0.16.0-android.apk) | [Windows](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.16.0/CaravanSurvival-v0.16.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.16.0/CaravanSurvival-v0.16.0-netlify.zip) |
 
-Screen fit options in Settings, so the game fills wide phone screens the way you like. [Release notes](versions/v0.15.0/NOTES.md).
+Your game is saved now, and Oakhaven's Town Hall builds lasting upgrades from the goods you haul home. [Release notes](versions/v0.16.0/NOTES.md).
 
 ## All versions
 
 | Version | Date | Android | Windows PC | Web (Netlify) | Notes |
 | --- | --- | --- | --- | --- | --- |
+| **v0.16.0** | 2026-11-07 | [Android APK](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.16.0/CaravanSurvival-v0.16.0-android.apk) | [Windows](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.16.0/CaravanSurvival-v0.16.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.16.0/CaravanSurvival-v0.16.0-netlify.zip) | [Notes](versions/v0.16.0/NOTES.md): Your game is saved now, and Oakhaven's Town Hall builds lasting upgrades from the goods you haul home. |
 | **v0.15.0** | 2026-11-07 | [Android APK](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.15.0/CaravanSurvival-v0.15.0-android.apk) | [Windows](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.15.0/CaravanSurvival-v0.15.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.15.0/CaravanSurvival-v0.15.0-netlify.zip) | [Notes](versions/v0.15.0/NOTES.md): Screen fit options in Settings, so the game fills wide phone screens the way you like. |
 | **v0.14.0** | 2026-11-07 | [Android APK](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.14.0/CaravanSurvival-v0.14.0-android.apk) | [Windows](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.14.0/CaravanSurvival-v0.14.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.14.0/CaravanSurvival-v0.14.0-netlify.zip) | [Notes](versions/v0.14.0/NOTES.md): Road events with the Corrupted Shrine and Necromancy; contracts now take a deposit and build standing with each town. |
 | **v0.13.0** | 2026-11-07 | [Android APK](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.13.0/CaravanSurvival-v0.13.0-android.apk) | [Windows](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.13.0/CaravanSurvival-v0.13.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/Caravan_survival_public/raw/main/versions/v0.13.0/CaravanSurvival-v0.13.0-netlify.zip) | [Notes](versions/v0.13.0/NOTES.md): Contracts, bulky loot that takes cart space, and a settings menu with the help guide; the browser build now fills the screen. |
