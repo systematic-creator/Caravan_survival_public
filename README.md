@@ -7,18 +7,19 @@ past goblin walls and dire wolves on the road.
 Every version is listed here with its downloads. The links work without a
 GitHub account. New versions are added when they are released.
 
-## Newest: v0.11.0
+## Newest: v0.12.0
 
 | Android | Windows PC | Web (Netlify) |
 | --- | --- | --- |
-| [Android APK](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.11.0/CaravanSurvival-v0.11.0-android.apk) | [Windows](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.11.0/CaravanSurvival-v0.11.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.11.0/CaravanSurvival-v0.11.0-netlify.zip) |
+| [Android APK](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.12.0/CaravanSurvival-v0.12.0-android.apk) | [Windows](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.12.0/CaravanSurvival-v0.12.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.12.0/CaravanSurvival-v0.12.0-netlify.zip) |
 
-Region 1 playable end to end: five Whispering Woods towns, generated roads with faction walls and roaming wildlife, the full party system and the new town screens. [Release notes](versions/v0.11.0/NOTES.md).
+Gold and loot, the cart Workshop, the Cartographer's Office and the region map. [Release notes](versions/v0.12.0/NOTES.md).
 
 ## All versions
 
 | Version | Date | Android | Windows PC | Web (Netlify) | Notes |
 | --- | --- | --- | --- | --- | --- |
+| **v0.12.0** | 2026-11-07 | [Android APK](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.12.0/CaravanSurvival-v0.12.0-android.apk) | [Windows](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.12.0/CaravanSurvival-v0.12.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.12.0/CaravanSurvival-v0.12.0-netlify.zip) | [Notes](versions/v0.12.0/NOTES.md): Gold and loot, the cart Workshop, the Cartographer's Office and the region map. |
 | **v0.11.0** | 2026-11-07 | [Android APK](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.11.0/CaravanSurvival-v0.11.0-android.apk) | [Windows](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.11.0/CaravanSurvival-v0.11.0-windows.zip) | [Netlify zip](https://github.com/systematic-creator/caravan_survival_public/raw/main/versions/v0.11.0/CaravanSurvival-v0.11.0-netlify.zip) | [Notes](versions/v0.11.0/NOTES.md): Region 1 playable end to end: five Whispering Woods towns, generated roads with faction walls and roaming wildlife, the full party system and the new town screens. |
 
 ## How to install
